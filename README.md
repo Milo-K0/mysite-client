@@ -1,19 +1,11 @@
-# my-website
+# 个人博客前台页面
 
-## Project setup
-```
-npm install
-```
+## 技术栈
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
++ vue2
++ vue-router
++ vuex
++ axios
++ mock
++ less
++ ...
